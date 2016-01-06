@@ -1,0 +1,255 @@
+196--
+8971 first 10 GB file, 8971-8972 stopped manually for testing
+
+198--
+8980-8999 range scan
+
+203--
+Pump down 17:43, Am test
+
+206--
+Ge refill 19:11 2015-11-13
+
+208--
+2015-11-13 19:35 mount Am target device, vacuum SP2 raised to 2.5e-4 mbar.
+Several detectors were calibrated.
+Am device removed. SiL3 mounted as target perpendicular to beam, SiR in
+correct positionm, SiT in left spot. MuPC removed.
+
+211--
+00:30 Access?
+01:30 Area closed and cables checked. D706 was enabled. Possible wiremap changing.
+02:00 Data taking at SF1.1 (of what?)
+02:21 Data taking at 1.12
+05:00 Access to mount SiL1
+05:45 Am calibration run in air of SiL3, then SiL1.
+06:30 SiL1 mounted and pumping begins in target position perp to beam.
+
+213--
+Run 9036 picture.
+
+216--
+The status of the setup at this point is SiL1 in front of SiL3
+in the target position, SiL2 missing. SiT in L detector position,
+SiR is in at R. MuPC is gone. Everything is on and pumped down.
+08:10 Ge refill, close area.
+08:30 Thresholds adjusted because of data rate.
+09:30 Range scan begun run 9097-9103.
+Beam tune from 11:10-14:30 (individual magnets)
+16:00 MuSc removed. Beam scan starting run 9128
+17:40 1mm plastic on flange, run 9143
+18:00 1mm plastic removed, 0.25mm placed pn flange run 9144
+18:15 Range scan with 0.25mm plastic, last 3 quads again individually adjusted
+
+217--
+Ge refilled 2015-11-14 08:01
+
+218--
+Range scan 9097-9103
+
+220--
+Approximately 9100-9149 complex beam tune
+
+223--
+More plots for beam tune above
+
+226--
+0.5mm plastic installed on flange (supposedly 0.25 removed?)
+Beam tunes 9154-9167
+Al colimator on flange with 1cm hole starting 9169
+
+227--
+0.5mm plastic moved from outside to inside in front of target position
+Al collimator, was it removed?
+Otherwise geometry still SiR correct, SiL1,3 combo as perp target,
+SiT at L position
+01:00 Pump down
+03:00 Pulser data
+03:45 DAQ trouble.
+06:45 Threshold adjusting
+
+228--
+Pulser data 9176-9183, 9190
+
+229--
+muScA installed?
+
+232--
+Geometry is SiL in target position, 0.5mm degrader right in front.
+11:45 Threshold adjustment finished. Run started 9252.
+12:05 1cm Al collimator installed on flange. Start run 9254.
+12:45 0.5cm Al coll installed, 1cm removed. 9256.
+13:15 0.25mm plastic absorber installed in front of coll. Beam tune 9258-9263. Prod 9264.
+14:00 Another 0.25mm plastic absorber in front of coll. Beam tune.
+16:15 Two 0.25mm absorbers and collimator removed, 9272
+
+236--
+2015-11-15 14:30 Ge refilled.
+
+240--
+9282 Eu cal, 9284 Co cal. Sources on Ge face.
+
+244--
+Lead back wall and coll installed. SiT in counter position.
+SiL1/3 in target position perp to beam, SiR 1/2 in correct position.
+
+245--
+02:30 Beam tune.
+
+246--
+Veto scintillator ripped?
+
+247--
+Ag collimator on SiT
+
+250--
+Beam scan ~9286-9298
+
+251--
+Al100 45deg, SiL norm, SiR norm
+Eu152 calib eff/en 9302
+SiT cables to 500MHz WFD, SiR3, SiL2 SIS3300.
+06:15 pump down.
+
+253--
+2015-11-16 06:36 Ge refilled
+
+255--
+Threshold adjusted
+08:40 crate 6 crash 9309
+Prod 9398
+
+257--
+SiT Ag collimator modified
+
+259--
+Beam tune 9412-9418
+
+260--
+16:30 beam tune until 9490
+
+267--
+Ambiguous beam tune
+
+268--
+Beam tune 9482-9518. Production 9519
+Geo still SiR=1,2,3(off); SiL=1,3;; both in pos., Al100 45deg
+Beam dead, stopped 9557
+Prod 9559
+
+270--
+Ge refilled 2015-11-17 11:45
+
+271--
+Production halter
+
+272--
+Geometry description
+
+275--
+muScA TDC Ch 9, SiL3 B1C7->D706, SiR2 B1C8->D707
+Sync ORd into D701, but can't see because too soon
+9642 started for threshold adjustment.
+
+283--
+Production all night Al100
+
+286--
+Beam down
+
+287--
+Last run 9682 before off for beam off
+
+289--
+9683-9686 Ge calib, fill in between
+
+291--
+2015-11-18 11:45 Ge refilled
+
+296--
+15:50: Shielded SiL1 cables. Close area. SiL1 45deg.
+
+297--
+Beam tune 9689-9727. Beam scan 9736-9745
+
+299--
+SiL3 installed at 20V as veto
+
+300--
+Beam scan overnight. SiR3 on at 280V
+
+301--
+Al50 installed. Threshold adjustment, DAQ problems, beam scan.
+
+302--
+Beam scan 9773-9765.
+
+303--
+Prod stopped 9791, thresholds adjusted 9792. Prod 9812. Threshold adjust 9816-9820.
+
+305--
+2015-11-19 12:00 Ge refilled
+
+307--
+Channels reassigned. 9804
+
+309--
+Beam scan until prod restart 9833. Beam scan 9841-9859, production?, then
+beam scan 9877-9888. Prod 9889.
+
+311--
+Temp calib for DT5730 now done each run 9865
+
+318--
+Stop production 9996. Start again.
+
+321--
+Ge refilled 2015-11-19 17:00
+
+324--
+01:15 Some access through night, beam down 06:45
+
+328--
+SiR3F D706 (moved or always?). SiL2F not plugged in.
+
+330--
+More lead shielding between SiT/SiL
+
+331--
+06:00 MuScA unplugged, muScLo plugged. muScan D700
+Beam scanner 10138-10148.
+10:55 Beam scanner removed. Q5F into D700. Threshold adjusted. WF Length adjusted.
+Start Ti 10149
+
+334--
+Ge refilled 2015-11-20 17:30
+
+343--
+09:00 Pumpdown and beam scan, Ti50 prod starting 10154. Threshold adjusted.
+
+349--
+00:00 Vent and install empty target. Ge refilled. MuScan until...
+04:00 Thresholds and channels put back as to before muscan. Empty target started.
+Crate 1 crashed.
+
+350--
+Ge refilled 2015-11-22 00:00
+
+355--
+Ge refilled 2015-11-22 13:00
+
+356--
+11:00 SiL1 installed at center, SiL2 remained in old position. Some
+Ge calibrations. Channels reassigned. SiL2 turned off.
+
+359--
+Thresholds adjusted
+
+370--
+Beam down, DAQ problems.
+04:30 Beam tune
+05:30 Beam distribution in air. And other fun combinations.
+07:00 SiL1 rotated to get vertical distribution of beam. And more like this.
+
+377--
+Am cal

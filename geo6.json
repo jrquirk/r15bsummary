@@ -1,0 +1,42 @@
+{
+    "SiL1" : {
+	"position"    : "0",
+	layer         : 1,
+	"orientation" : "S",
+	"active" :    : true
+    },
+    "SiL3" : {
+	"position"    : "0",
+	layer         : 2,
+	"orientation" : "S"
+	"active"      : true
+    },
+    "SiR1" : {
+	"position"    : "E",
+	layer         : 1,
+	"orientation" : "W"
+	"active"      : true
+    },
+    "SiR2" : {
+	"position"    : "E",
+	layer         : 2,
+	"orientation" : "W"
+	"active"      : true
+    },
+    "SiR3" : {
+	"position"    : "E",
+	layer         : 3,
+	"orientation" : "W"
+	"active"      : false
+    },
+    "SiT" : {
+	"position"    : "W",
+	"orientation" : "E",
+	"active"      : true
+    },
+    "degrader" : {
+	"material"    : "plastic",
+	"position"    : "ext",
+	"dz"          : 250
+    }
+}

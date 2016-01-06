@@ -1,0 +1,35 @@
+{
+    "SiL3" : {
+	"position"    : "S",
+	layer         : 2,
+	"orientation" : "N"
+	"active"      : true
+    },
+    "SiR1" : {
+	"position"    : "E",
+	layer         : 1,
+	"orientation" : "W"
+	"active"      : true
+    },
+    "SiR2" : {
+	"position"    : "E",
+	layer         : 2,
+	"orientation" : "W"
+	"active"      : true
+    },
+    "SiR3" : {
+	"position"    : "E",
+	layer         : 3,
+	"orientation" : "W"
+	"active"      : false
+    },
+    "SiT" : {
+	"position"    : "W",
+	"orientation" : "E",
+	"active"      : true
+    },
+    "muSc"            : null,
+    "SrcMount" : {
+	"position"    : "0"
+    }
+}

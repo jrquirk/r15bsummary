@@ -1,0 +1,56 @@
+[
+    { "name" : "SiR1",
+      "model" : "",
+      "sections" : 0,
+      "dimensions" : [50000, 50000, 65],
+      "position" : "E",
+      "layer" : 1
+      "orientation" : "W",
+      "active" : true
+    },
+    { "name" : "SiR2",
+      "model" : "",
+      "sections" : 1,
+      "dimensions" : [50000, 50000, 1500],
+      "position" : "E",
+      "layer" : 2,
+      "orientation" : "W",
+      "active" : true
+    },
+    { "name" : "SiR3",
+      "model" : "",
+      "sections" : 1,
+      "dimensions" : [50000, 50000, 1500],
+      "position" : "E",
+      "layer" : 3,
+      "orientation" : "W",
+      "active" : false
+    },
+    { "name" : "SiL1",
+      "model" : "",
+      "sections" : 0,
+      "dimensions" : [50000, 50000, 65],
+      "position" : "S",
+      "layer" : 1,
+      "orientation" : "N",
+      "active" : true
+    },
+    { "name" : "SiL3",
+      "model" : "",
+      "sections" : "",
+      "dimensions" : [50000, 50000, 1500],
+      "position" : "S",
+      "layer" : 2,
+      "orientation" : "N",
+      "active" : true
+    },
+    { "name" : "SiT",
+      "model" : "",
+      "sections" : 4,
+      "dimensions" : [50000, 50000, 65],
+      "position" : "W",
+      "orientation" : "E",
+      "active" : true
+    },
+    { "name" : "muSc" }
+]

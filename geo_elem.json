@@ -1,0 +1,64 @@
+{
+    "Si" : {
+	"R" : [
+	    { "name" : "SiR1",
+      	      "model" : "",
+	      "dx" : 0,
+	      "dy" : 0,
+	      "dz" : 0,
+	      "nsections" : 0,
+	      "voltage" : 0
+	    },
+	    { "name" : "SiR2",
+	      "model" : "",
+      	      "dx" : 0,
+	      "dy" : 0,
+	      "dz" : 0,
+	      "nsections" : 1,
+	      "voltage" : 0},
+	    { "name" : "SiR3",
+	      "model" : "",
+	      "dx" : 0,
+	      "dy" : 0,
+	      "dz" : 0,
+              "nsections" : 1,
+	      "voltage" : 0
+	    }
+	],
+	"L" : [
+	    { "name" : "SiL1",
+	      "model" : "",
+	      "dx" : 0,
+	      "dy" : 0,
+	      "dz" : 0,
+              "nsections" : 0,
+	      "voltage" : 0
+	    },
+            { "name" : "SiL2",
+	      "model" : "",
+	      "dx" : 0,
+	      "dy" : 0,
+	      "dz" : 0,
+              "nsections" : 1,
+	      "voltage" : 0
+	    },
+            { "name" : "SiL3",
+	      "model" : "",
+	      "dx" : 0,
+	      "dy" : 0,
+	      "dz" : 0,
+              "nsections" : 1,
+	      "voltage" : 0
+	    }
+	],
+	"T" : { "name" : "SiT",
+		"model" : "",
+		"dx" : 0,
+		"dy" : 0,
+		"dz" : 0,
+		"nsections" : 4,
+		"voltage" : 0
+	      }
+    }, 
+    "T" : 
+}

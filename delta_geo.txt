@@ -1,0 +1,26 @@
+# Positions: e=external, l=left, r=right, u=upstream, t=target, #=angle degree beam
+1; 9005; SiL030:u, SiR123:r, SiT:l, muSc, Am241:t; 208
+2; 9036; SiL030:t90, -Am241; 208
+3; 9067; SiL130;t90; 215
+4; 9126; -muSc; 216
+5; 9143; Deg1mm:e; 216
+6; 9144; -Deg1mm, Deg250um:e; 216
+7; 9150; -Deg250umdeg, Deg500um:e; 226
+8; 9169; ColAl1cm:e;226
+9; 9176; -ColAl1cm, -Deg500um; 232
+10; 9191; Deg500um:t, muScA; 232
+11; 9254; ColAl1cm:e; 232
+12; 9256; -ColAl1cm, TAl5mm; 232
+13; 9258; Deg250um:e; 232
+14; 9265; -Deg250um, Deg500um:e; 232
+15; 9272; -Deg500um, -ColAl5mm:e; 232
+16; 9285; BackShield:d, ColPb:u; 232
+17; 9301; TAl100um:t:45, SiL130:l; 251
+18; 9689; -TAl100um:t45, SiL132:t45, SiR123; 296
+19; 9746; SiL132:l, TAl50um:t45; 300
+20; 10130; muScan, -TAl50um, TTi50um; 331
+21; 10149; -muScan; 331
+22; 10260; muScan, -TTi50um, TFrame:t45; 349
+23; 10352; SiL032:l, SiL100:t45; 370
+24; 10467; SiL100:t90; 370
+25; 10475; SiL100:t90rot; 370

@@ -1,0 +1,5 @@
+*.pdf
+*.png
+*.pyc
+# Python pickled files
+*.p

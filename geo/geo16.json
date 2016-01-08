@@ -34,13 +34,10 @@
 	"orientation" : "E",
 	"active"      : true
     },
-    "degrader" : {
-	"material"    : "plastic",
-	"position"    : "ext",
-	"dz"          : 500
-    }
-    "collimator" : {
-	"material"    : "Al",
-	"dr"          : 10000
+    "muScA" : {
+    },
+    "BackShield" : {
+    },
+    "UpstreamCollimator" : {
     }
 }

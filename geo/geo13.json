@@ -33,14 +33,21 @@
 	"position"    : "W",
 	"orientation" : "E",
 	"active"      : true
-    },
+    }
+    "degrader" : {
+	"material"    : "plastic",
+	"position"    : "int",
+	"dz"          : 500
+    }
     "degrader" : {
 	"material"    : "plastic",
 	"position"    : "ext",
-	"dz"          : 500
+	"dz"          : 250
+    }
+    "muScA" : {
     }
     "collimator" : {
 	"material"    : "Al",
-	"dr"          : 10000
+	"dr"          : 5000
     }
 }

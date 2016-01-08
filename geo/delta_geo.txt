@@ -10,7 +10,7 @@
 9; 9176; -ColAl1cm, -Deg500um; 232
 10; 9191; Deg500um:t, muScA; 232
 11; 9254; ColAl1cm:e; 232
-12; 9256; -ColAl1cm, TAl5mm; 232
+12; 9256; -ColAl1cm, ColAl5mm; 232
 13; 9258; Deg250um:e; 232
 14; 9265; -Deg250um, Deg500um:e; 232
 15; 9272; -Deg500um, -ColAl5mm:e; 232

@@ -1,14 +1,20 @@
 {
     "SiL1" : {
-	"position"    : "0",
-	layer         : 1,
-	"orientation" : "S",
+	"position"    : "W",
+	"layer"       : 1,
+	"orientation" : "E",
 	"active" :    : true
     },
     "SiL3" : {
-	"position"    : "0",
-	layer         : 2,
-	"orientation" : "S"
+	"position"    : "W",
+	"layer"       : 2,
+	"orientation" : "E"
+	"active"      : true
+    },
+    "SiL2" : {
+	"position"    : "W",
+	"layer"       : 3,
+	"orientation" : "E",
 	"active"      : true
     },
     "SiR1" : {
@@ -27,20 +33,26 @@
 	"position"    : "E",
 	layer         : 3,
 	"orientation" : "W"
-	"active"      : false
+	"active"      : true
     },
     "SiT" : {
 	"position"    : "W",
 	"orientation" : "E",
 	"active"      : true
     },
-    "degrader" : {
-	"material"    : "plastic",
-	"position"    : "ext",
-	"dz"          : 500
+    "muScA" : {
+    },
+    "BackShield" : {
+    },
+    "UpstreamCollimator" : {
     }
-    "collimator" : {
-	"material"    : "Al",
-	"dr"          : 10000
+    "Target" : {
+	"material"    : "",
+	"dx"          : 10000,
+	"dy"          : 10000,
+	"dz"          : 0,
+	"orientation" : "SE"
+    },
+    "muScan" : {
     }
 }

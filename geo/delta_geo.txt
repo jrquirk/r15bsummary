@@ -14,7 +14,7 @@
 13; 9258; Deg250um:e; 232
 14; 9265; -Deg250um, Deg500um:e; 232
 15; 9272; -Deg500um, -ColAl5mm:e; 232
-16; 9285; BackShield:d, ColPb:u; 232
+16; 9285; BackShield:d, ColPb:u, SiT:u; 244
 17; 9301; TAl100um:t:45, SiL130:l; 251
 18; 9689; -TAl100um:t45, SiL132:t45, SiR123; 296
 19; 9746; SiL132:l, TAl50um:t45; 300
